@@ -1,0 +1,6 @@
+name: Deploy my Lmabda Function
+
+on:
+ push:
+  branches:
+   - main
